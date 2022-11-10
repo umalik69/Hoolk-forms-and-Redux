@@ -46,6 +46,7 @@
   border-radius: 5px;
   border-color: blue;
   background-color: black;
+  margin-left: 30px;
 }
 .submit{
   height: 30px;
@@ -53,4 +54,7 @@
   background-color: blue;
   font-weight: bold;
   font-family: 'Times New Roman', Times, serif;
+}
+.form{
+padding-left: 10px;
 }
